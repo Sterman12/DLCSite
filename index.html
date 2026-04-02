@@ -14,7 +14,9 @@ heading: For DLC enthusiasts!
 <ul>
 {% for member in site.data.dlcRequests %}
   <li>
-    {{members.dlc_request}}
+    {{member.dlc_request}}
+    {{member.user_name}}
+    {{member.dlc_request_timestamp}}
   </li>
 {% endfor %}
 </ul>
