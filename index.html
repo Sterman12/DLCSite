@@ -12,10 +12,14 @@ heading: For DLC enthusiasts!
 <ul>
 {% for member in site.data.dlcRequests %}
   <li>
+    {% if {{member.has_played}} == Yes %}
     {{member.dlc_request}}
     {{member.user_name}}
     {{member.dlc_request_timestamp}}
+    {% if {{member.imdb_url != null}} %}
     <a href={{member.imdb_url}}>imdb link</a>
+    {% endif %} 
+    {% endif %}
   </li>
 {% endfor %}
 </ul>
