@@ -13,20 +13,28 @@ h1 {text-align: center;}
 </head>
 <body>
 <h1>{{page.heading}}</h1>
-<ul>
+<table>
+    <tr>
+    <th>DLC request</th>
+    <th>User name</th>
+    <th>Timestamp</th>
+    <th>Imdb link (if found)</th>
+    </tr>
+
 {% for member in site.data.dlcRequests %}
-    {% unless {{member.has_played}} == Yes %}
-    <li>
-    {{member.dlc_request}}
-    {{member.user_name}}
-    {{member.dlc_request_timestamp}}
+    {% unless {{member.has_played}} == Yes%}
+    <tr>
+    <td>{{member.dlc_request}}</td>
+    <td>{{member.user_name}}</td>
+    <td>{{member.user_name}}</td>
+    <td>{{member.dlc_request_timestamp}}</td>
     {% if {{member.imdb_url != null}} %}
-    <a href={{member.imdb_url}}>imdb link</a>
+    <td><a href={{member.imdb_url}}>imdb link</a></td>
     {% endif %}
-    </li>
+    </tr>
     {% endunless %}
 {% endfor %}
-</ul>
+</table>
 
 
 </body>
