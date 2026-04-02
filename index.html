@@ -9,14 +9,13 @@ heading: For DLC enthusiasts!
 </head>
 <body>
 <h1>{{page.heading}}</h1>
-
-
 <ul>
 {% for member in site.data.dlcRequests %}
   <li>
     {{member.dlc_request}}
     {{member.user_name}}
     {{member.dlc_request_timestamp}}
+    <a href={{member.imdb_url}}>imdb link</a>
   </li>
 {% endfor %}
 </ul>
