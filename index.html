@@ -4,6 +4,10 @@ heading: For DLC enthusiasts!
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+h1 {text-align: center;}
+</style>
+<link rel="stylesheet" href="{{ "/css/main.css" | relative_url }}">
 <script src="script.js"></script>
 <title>DLC requests</title>
 </head>
@@ -11,16 +15,18 @@ heading: For DLC enthusiasts!
 <h1>{{page.heading}}</h1>
 <ul>
 {% for member in site.data.dlcRequests %}
-  <li>
-    {% if {{member.has_played}} == Yes %}
+    {% unless {{member.has_played}} == Yes %}
+    <li>
     {{member.dlc_request}}
     {{member.user_name}}
     {{member.dlc_request_timestamp}}
     {% if {{member.imdb_url != null}} %}
     <a href={{member.imdb_url}}>imdb link</a>
-    {% endif %} 
     {% endif %}
-  </li>
+    </li>
+    {% endunless %}
 {% endfor %}
 </ul>
+
+
 </body>
