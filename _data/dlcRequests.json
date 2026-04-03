@@ -227,32 +227,5 @@
     "dlc_request_timestamp": "Fri, 03 Apr 2026 09:48:36 GMT",
     "imdb_url": "https://www.imdb.com/title/tt0119190",
     "has_played": "No"
-  },
-  {
-    "dlc_request": "this time",
-    "user_name": "sterman00",
-    "dlc_request_timestamp": "Fri, 03 Apr 2026 21:41:29 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt7011370",
-    "has_played": "No",
-    "long_uuid": "0",
-    "short_uuid": "0"
-  },
-  {
-    "dlc_request": "irina  dolan",
-    "user_name": "sterman00",
-    "dlc_request_timestamp": "Fri, 03 Apr 2026 21:47:20 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt5503686",
-    "has_played": "No",
-    "long_uuid": "no uuid",
-    "short_uuid": "no uuid"
-  },
-  {
-    "dlc_request": "one last test",
-    "user_name": "sterman00",
-    "dlc_request_timestamp": "Fri, 03 Apr 2026 21:52:31 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt35050741",
-    "has_played": "No",
-    "long_uuid": "019d5555-635c-701d-a5bb-91c8973a125e",
-    "short_uuid": "019d555"
   }
 ]
