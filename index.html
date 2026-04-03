@@ -6,6 +6,9 @@ heading: For DLC enthusiasts!
 <head>
     <style>
         h1 {text-align: center;}
+        h1 {text-shadow: 2px 2px 2px black;}
+        p {text-align: center;}
+        body {background-image: url("https://cdn.7tv.app/emote/01GZ95010000028EVQ0341T7QS/4x.avif");}
     </style>
     <link rel="stylesheet" href="{{ "/css/main.css" | relative_url }}">
     <script src="script.js"></script>
@@ -22,7 +25,7 @@ heading: For DLC enthusiasts!
     <th>Imdb link (if found)</th>
     </tr>
 
-{% for member in site.data.dlcRequests %}
+{% for member in site.data.dlcRequests reversed %}
     {% unless {{member.has_played}} == Yes%}
     <tr>
     <td>{{member.dlc_request}}</td>
@@ -35,6 +38,7 @@ heading: For DLC enthusiasts!
     {% endunless %}
 {% endfor %}
 </table>
+<p>Last updated at: {{site.time}}</p>
 
 
 </body>
