@@ -11,4 +11,10 @@ color: white; }
 }
 .footertime {
 text-align: center;
+align-items: center;
+}
+.center {
+  display:flex;
+  justify-content:center;
+  align-items:center;
 }
