@@ -1,12 +1,21 @@
 body {
     table {
+    empty-cells: show;
     width: auto;
     margin: auto;
         tbody {
             background-color: #ffffff;
-            tr:hover {background-color: blanchedalmond;} 
+            tr:hover {background-color: blanchedalmond;}
             tr {
-            td {text-align: center;}
+                background-color: black;
+                color: white;
+                }
+            tr {
+            td {
+                text-align: center;
+                a:link {text-decoration: none;}
+                a:hover { text-decoration: underline;}
+                }
             }
 
             }
