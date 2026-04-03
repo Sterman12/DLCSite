@@ -3,72 +3,57 @@
     "dlc_request": "Shark Tale 2",
     "user_name": "nl_raiden",
     "dlc_request_timestamp": "Wed, 25 Mar 2026 20:18:32 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt0307453",
-    "has_played": "No"
+    "imdb_url": "https://www.imdb.com/title/tt0307453"
   },
   {
     "dlc_request": "I Heart Huckabees",
     "user_name": "somethingr_",
-    "dlc_request_timestamp": "Wed, 25 Mar 2026 20:19:06 GMT",
-    "has_played": "No"
+    "dlc_request_timestamp": "Wed, 25 Mar 2026 20:19:06 GMT"
   },
   {
     "dlc_request": "marvel marathon when",
     "user_name": "tro_and",
-    "dlc_request_timestamp": "Wed, 25 Mar 2026 20:27:42 GMT",
-    "has_played": "No"
+    "dlc_request_timestamp": "Wed, 25 Mar 2026 20:27:42 GMT"
   },
   {
     "dlc_request": "survive style 5+",
     "user_name": "tumizh",
     "dlc_request_timestamp": "Wed, 25 Mar 2026 20:28:17 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt0430651",
-    "has_played": "No"
+    "imdb_url": "https://www.imdb.com/title/tt0430651"
   },
   {
     "dlc_request": "Young and Beautiful 2013",
     "user_name": "CheerfulChipmunk",
     "dlc_request_timestamp": "Thu, 26 Mar 2026 02:29:08 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt2752200",
-    "has_played": "No"
-
+    "imdb_url": "https://www.imdb.com/title/tt2752200"
   },
   {
     "dlc_request": "utopia brittish edition show docJAM",
     "user_name": "bluefishy6767",
-    "dlc_request_timestamp": "Thu, 26 Mar 2026 03:05:35 GMT",
-    "has_played": "No"
-
+    "dlc_request_timestamp": "Thu, 26 Mar 2026 03:05:35 GMT"
   },
   {
     "dlc_request": "mr bean creature",
     "user_name": "bluefishy6767",
     "dlc_request_timestamp": "Thu, 26 Mar 2026 03:05:46 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt10590066",
-    "has_played": "No"
+    "imdb_url": "https://www.imdb.com/title/tt10590066"
   },
   {
     "dlc_request": "blue bayou (2021)",
     "user_name": "wazzo___",
-    "dlc_request_timestamp": "Thu, 26 Mar 2026 03:07:19 GMT",
-    "has_played": "No"
-
+    "dlc_request_timestamp": "Thu, 26 Mar 2026 03:07:19 GMT"
   },
   {
     "dlc_request": "trudno byt bogom (2013)",
     "user_name": "wazzo___",
     "dlc_request_timestamp": "Thu, 26 Mar 2026 03:08:51 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt2328813",
-    "has_played": "No"
-
+    "imdb_url": "https://www.imdb.com/title/tt2328813"
   },
   {
     "dlc_request": "Kim Possible",
     "user_name": "bluefishy6767",
     "dlc_request_timestamp": "Thu, 26 Mar 2026 04:25:52 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt0278866",
-    "has_played": "No"
-
+    "imdb_url": "https://www.imdb.com/title/tt0278866"
   },
   {
     "dlc_request": "joker folie a deaux (2024)",
@@ -76,7 +61,26 @@
     "dlc_request_timestamp": "Thu, 26 Mar 2026 04:25:57 GMT",
     "imdb_url": "https://www.imdb.com/title/tt11315808",
     "has_played": "No"
-
+  },
+  {
+    "dlc_request": "recess",
+    "user_name": "bluefishy6767",
+    "dlc_request_timestamp": "Thu, 26 Mar 2026 04:26:00 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0126170",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "Aragorn",
+    "user_name": "bluefishy6767",
+    "dlc_request_timestamp": "Thu, 26 Mar 2026 04:26:20 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt11198330",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "catalinaville",
+    "user_name": "harray_pottah",
+    "dlc_request_timestamp": "Thu, 26 Mar 2026 04:26:36 GMT",
+    "has_played": "No"
   },
   {
     "dlc_request": "a scene at the sea '91",
@@ -84,7 +88,6 @@
     "dlc_request_timestamp": "Thu, 26 Mar 2026 04:27:49 GMT",
     "imdb_url": "https://www.imdb.com/title/tt0435625",
     "has_played": "No"
-
   },
   {
     "dlc_request": "wizard so so",
@@ -92,7 +95,6 @@
     "dlc_request_timestamp": "Thu, 26 Mar 2026 04:28:07 GMT",
     "imdb_url": "https://www.imdb.com/title/tt0032138",
     "has_played": "No"
-
   },
   {
     "dlc_request": "Battles without Honor and Humanity",
@@ -100,7 +102,6 @@
     "dlc_request_timestamp": "Thu, 26 Mar 2026 17:44:14 GMT",
     "imdb_url": "https://www.imdb.com/title/tt0070246",
     "has_played": "No"
-
   },
   {
     "dlc_request": "triangle of sadness",
@@ -115,7 +116,6 @@
     "dlc_request_timestamp": "Thu, 26 Mar 2026 20:58:45 GMT",
     "imdb_url": "https://www.imdb.com/title/tt0161292",
     "has_played": "No"
-
   },
   {
     "dlc_request": "The Longest Yard",
@@ -123,7 +123,6 @@
     "dlc_request_timestamp": "Mon, 30 Mar 2026 21:10:25 GMT",
     "imdb_url": "https://www.imdb.com/title/tt0398165",
     "has_played": "No"
-
   },
   {
     "dlc_request": "Drive 2019",
@@ -145,5 +144,97 @@
     "dlc_request_timestamp": "Thu, 02 Apr 2026 02:00:04 GMT",
     "imdb_url": "https://www.imdb.com/title/tt0119116",
     "has_played": "No"
+  },
+  {
+    "dlc_request": "Braveheart Creature",
+    "user_name": "RYZYK_KRZYSIEK",
+    "dlc_request_timestamp": "Thu, 02 Apr 2026 09:01:03 GMT",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "bodies bodies bodies",
+    "user_name": "PizzaBiceps",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 00:24:03 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt8110652",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "srbski film",
+    "user_name": "MademanCZ",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 00:32:25 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt1273235",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "Pluribus",
+    "user_name": "martin_lomax_",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 09:30:28 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt22202452",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "La mesita del comedor",
+    "user_name": "martin_lomax_",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 09:41:54 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt21874760",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "the father 2020",
+    "user_name": "forens_nikirk",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 09:42:16 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt10272386",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "La mesita del comedor",
+    "user_name": "forens_nikirk",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 09:42:31 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt21874760",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "rome",
+    "user_name": "forens_nikirk",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 09:42:45 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0384766",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "inception",
+    "user_name": "forens_nikirk",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 09:43:20 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt1375666",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "avengers",
+    "user_name": "forens_nikirk",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 09:43:47 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt21357150",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "Catwoman",
+    "user_name": "forens_nikirk",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 09:44:53 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0327554",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "george of the jungle",
+    "user_name": "tro_and",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 09:48:36 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0119190",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "uuidtest",
+    "user_name": "sterman00",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 22:10:39 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt12385296",
+    "has_played": "Yes",
+    "long_uuid": "019d5565-fc33-7a5e-b1a3-facfc16da02d",
+    "short_uuid": "019d556"
   }
 ]

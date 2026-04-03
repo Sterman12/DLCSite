@@ -23,6 +23,7 @@ heading: For DLC enthusiasts!
     <th>User name</th>
     <th>Timestamp</th>
     <th>Imdb link (if found)</th>
+    <th>short uuid</th>
     </tr>
 
 {% for member in site.data.dlcRequests reversed %}
@@ -33,12 +34,16 @@ heading: For DLC enthusiasts!
     <td>{{member.dlc_request_timestamp}}</td>
     {% if {{member.imdb_url != null}} %}
     <td><a href={{member.imdb_url}}>imdb link</a></td>
+    {% else %}
+    <td>" "</td>
     {% endif %}
+    <td>{{member.short_uuid}}</td>
     </tr>
     {% endunless %}
 {% endfor %}
 </table>
-<p>Last updated at: {{site.time}}</p>
 
+<table></table>
+<p>Last updated at: {{site.time}}</p>
 
 </body>
