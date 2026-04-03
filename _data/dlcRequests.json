@@ -164,5 +164,68 @@
     "dlc_request_timestamp": "Fri, 03 Apr 2026 00:32:25 GMT",
     "imdb_url": "https://www.imdb.com/title/tt1273235",
     "has_played": "No"
+  },
+  {
+    "dlc_request": "Pluribus",
+    "user_name": "martin_lomax_",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 09:30:28 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt22202452",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "La mesita del comedor",
+    "user_name": "martin_lomax_",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 09:41:54 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt21874760",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "the father 2020",
+    "user_name": "forens_nikirk",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 09:42:16 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt10272386",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "La mesita del comedor",
+    "user_name": "forens_nikirk",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 09:42:31 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt21874760",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "rome",
+    "user_name": "forens_nikirk",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 09:42:45 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0384766",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "inception",
+    "user_name": "forens_nikirk",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 09:43:20 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt1375666",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "avengers",
+    "user_name": "forens_nikirk",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 09:43:47 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt21357150",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "Catwoman",
+    "user_name": "forens_nikirk",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 09:44:53 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0327554",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "george of the jungle",
+    "user_name": "tro_and",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 09:48:36 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0119190",
+    "has_played": "No"
   }
 ]
