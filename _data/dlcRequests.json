@@ -59,66 +59,77 @@
     "dlc_request": "joker folie a deaux (2024)",
     "user_name": "wazzo___",
     "dlc_request_timestamp": "Thu, 26 Mar 2026 04:25:57 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt11315808"
+    "imdb_url": "https://www.imdb.com/title/tt11315808",
+    "has_played": "No"
   },
   {
     "dlc_request": "recess",
     "user_name": "bluefishy6767",
     "dlc_request_timestamp": "Thu, 26 Mar 2026 04:26:00 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt0126170"
+    "imdb_url": "https://www.imdb.com/title/tt0126170",
+    "has_played": "No"
   },
   {
     "dlc_request": "Aragorn",
     "user_name": "bluefishy6767",
     "dlc_request_timestamp": "Thu, 26 Mar 2026 04:26:20 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt11198330"
+    "imdb_url": "https://www.imdb.com/title/tt11198330",
+    "has_played": "No"
   },
   {
     "dlc_request": "catalinaville",
     "user_name": "harray_pottah",
-    "dlc_request_timestamp": "Thu, 26 Mar 2026 04:26:36 GMT"
+    "dlc_request_timestamp": "Thu, 26 Mar 2026 04:26:36 GMT",
+    "has_played": "No"
   },
   {
     "dlc_request": "a scene at the sea '91",
     "user_name": "wazzo___",
     "dlc_request_timestamp": "Thu, 26 Mar 2026 04:27:49 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt0435625"
+    "imdb_url": "https://www.imdb.com/title/tt0435625",
+    "has_played": "No"
   },
   {
     "dlc_request": "wizard so so",
     "user_name": "0hn3zuck3r",
     "dlc_request_timestamp": "Thu, 26 Mar 2026 04:28:07 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt0032138"
+    "imdb_url": "https://www.imdb.com/title/tt0032138",
+    "has_played": "No"
   },
   {
     "dlc_request": "Battles without Honor and Humanity",
     "user_name": "CheerfulChipmunk",
     "dlc_request_timestamp": "Thu, 26 Mar 2026 17:44:14 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt0070246"
+    "imdb_url": "https://www.imdb.com/title/tt0070246",
+    "has_played": "No"
   },
   {
     "dlc_request": "triangle of sadness",
     "user_name": "PizzaBiceps",
     "dlc_request_timestamp": "Thu, 26 Mar 2026 20:58:19 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt7322224"
+    "imdb_url": "https://www.imdb.com/title/tt7322224",
+    "has_played": "No"
   },
   {
     "dlc_request": "Bleeder(1999)",
     "user_name": "menta1000",
     "dlc_request_timestamp": "Thu, 26 Mar 2026 20:58:45 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt0161292"
+    "imdb_url": "https://www.imdb.com/title/tt0161292",
+    "has_played": "No"
   },
   {
     "dlc_request": "The Longest Yard",
     "user_name": "h1pperigly",
     "dlc_request_timestamp": "Mon, 30 Mar 2026 21:10:25 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt0398165"
+    "imdb_url": "https://www.imdb.com/title/tt0398165",
+    "has_played": "No"
   },
   {
     "dlc_request": "Drive 2019",
     "user_name": "forens_nikirk",
     "dlc_request_timestamp": "Mon, 30 Mar 2026 21:11:43 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt8289930"
+    "imdb_url": "https://www.imdb.com/title/tt8289930",
+    "has_played": "No"
   },
   {
     "dlc_request": "held up 1999",
@@ -138,6 +149,13 @@
     "dlc_request": "Braveheart Creature",
     "user_name": "RYZYK_KRZYSIEK",
     "dlc_request_timestamp": "Thu, 02 Apr 2026 09:01:03 GMT",
+    "has_played": "No"
+  },
+  {
+    "dlc_request": "bodies bodies bodies",
+    "user_name": "PizzaBiceps",
+    "dlc_request_timestamp": "Fri, 03 Apr 2026 00:24:03 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt8110652",
     "has_played": "No"
   }
 ]
