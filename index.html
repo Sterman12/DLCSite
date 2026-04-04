@@ -11,7 +11,6 @@ heading: For DLC enthusiasts!
         body {background-image: url("https://cdn.7tv.app/emote/01GZ95010000028EVQ0341T7QS/4x.avif");}
     </style>
     <link rel="stylesheet" href="{{ "/css/main.css" | relative_url }}">
-    <script src="script.js"></script>
     <title>DLC requests</title>
 </head>
 <body>
@@ -20,10 +19,10 @@ heading: For DLC enthusiasts!
 <table id="dlc_request_table">
     <tr class="tableheaderrow">
     <th onclick="sortTable(0)">DLC request</th>
-    <th onclick="sortTable(1)"></thonclick>>User name</th>
-    <th onclick="sortTable(2)"></th>>Timestamp</th>
-    <th onclick="sortTable(3)"></th>>Imdb link (if found)</th>
-    <th onclick="sortTable(4)"></th>>short uuid</th>
+    <th onclick="sortTable(1)">User name</th>
+    <th onclick="sortTable(2)">Timestamp</th>
+    <th onclick="sortTable(3)">Imdb link (if found)</th>
+    <th onclick="sortTable(4)">short uuid</th>
     </tr>
 
 {% for member in site.data.dlcRequests reversed %}
@@ -49,4 +48,5 @@ heading: For DLC enthusiasts!
 </tfoot>
 </table>
 </div>
+<script src="script.js"></script>
 </body>
