@@ -12,7 +12,7 @@ while (switching) {
 
         x = rows[i].getElementsByTagName('TD')[n];
         y = rows[i + 1].getElementsByTagName('TD')[n];
-
+        if ((y === undefined) || (x === undefined)) {break;}
         if (direction == 'ascending') {
             if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
                 Switch = true;
