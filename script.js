@@ -2,7 +2,7 @@ function sortTable(n) {
 var table = document.getElementById("dlc_request_table");
 var rows;
 var i, x, y, count = 0;
-let switching = true;
+var switching = true;
 var direction = 'descending';
 while (switching) {
     switching = false;
@@ -10,8 +10,8 @@ while (switching) {
     for(i=0; i<rows.length-1; i++) {
         var Switch=false;
 
-        let x = rows[i].getElementsByTagName('TD')[n];
-        let y = rows[i + 1].getElementsByTagName('TD')[n];
+        var x = rows[i].getElementsByTagName('TD')[n];
+        var y = rows[i + 1].getElementsByTagName('TD')[n];
 
         if (direction == 'ascending') {
             if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
