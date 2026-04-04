@@ -1,17 +1,17 @@
 function sortTable(n) {
-var table = document.getElementById("dlc_request_table");
-var rows;
-var i, x, y, count = 0;
-var switching = true;
-var direction = 'descending';
+let table = document.getElementById("dlc_request_table");
+let rows;
+let i, x, y, count = 0;
+let switching = true;
+let direction = 'descending';
 while (switching) {
     switching = false;
     rows = table.rows;
-    for(i=0; i<rows.length-1; i++) {
-        var Switch=false;
+    for(i=1; i<rows.length-1; i++) {
+        Switch=false;
 
-        var x = rows[i].getElementsByTagName('TD')[n];
-        var y = rows[i + 1].getElementsByTagName('TD')[n];
+        x = rows[i].getElementsByTagName('TD')[n];
+        y = rows[i + 1].getElementsByTagName('TD')[n];
 
         if (direction == 'ascending') {
             if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
