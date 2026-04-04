@@ -50,18 +50,18 @@ while (switching) {
     for(i=1; i<rows.length-1; i++) {
         Switch = false;
 
-        x = Date.parse(rows[i].getElementsByTagName('TD')[n]);
-        y = Date.parse(rows[i + 1].getElementsByTagName('TD')[n]);
+        x = rows[i].getElementsByTagName('TD')[n];
+        y = rows[i + 1].getElementsByTagName('TD')[n];
 
         if ((y === undefined) || (x === undefined)) {break;} // added break statement prevent reading of undefined
         if (direction == 'ascending') {
-            if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+            if (Date.parse(x.innerHTML) > Date.parse(y.innerHTML)) {
                 Switch = true;
                 break;
             }
         }
         else if (direction == 'descending') {
-            if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+            if (Date.parse(x.innerHTML) < Date.parse(y.innerHTML)) {
                 Switch = true;
                 break;
             }
