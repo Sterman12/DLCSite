@@ -6,12 +6,12 @@ let switching = true;
 var direction = 'descending';
 while (switching) {
     switching = false;
-    let rows = table.rows;
+    rows = table.rows;
     for(i=0; i<rows.length-1; i++) {
         var Switch=false;
 
-        x = rows[i].getElementsByTagName('TD')[n];
-        y = rows[i + 1].getElementsByTagName('TD')[n];
+        let x = rows[i].getElementsByTagName('TD')[n];
+        let y = rows[i + 1].getElementsByTagName('TD')[n];
 
         if (direction == 'ascending') {
             if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
