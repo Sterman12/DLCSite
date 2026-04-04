@@ -1,8 +1,9 @@
 function sortTable(n) {
-let table = document.getElementById("dlc_request_table");
-let rows, i, x, y, count = 0;
+var table = document.getElementById("dlc_request_table");
+var rows;
+var i, x, y, count = 0;
 let switching = true;
-let direction = 'descending';
+var direction = 'descending';
 while (switching) {
     switching = false;
     let rows = table.rows;
