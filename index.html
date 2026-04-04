@@ -17,13 +17,13 @@ heading: For DLC enthusiasts!
 <body>
 <h1>{{page.heading}}</h1>
 <div class="centerscrollable">
-<table>
+<table id="dlc_request_table">
     <tr class="tableheaderrow">
-    <th>DLC request</th>
-    <th>User name</th>
-    <th>Timestamp</th>
-    <th>Imdb link (if found)</th>
-    <th>short uuid</th>
+    <th onclick="sortTable(0)">DLC request</th>
+    <th onclick="sortTable(1)"></thonclick>>User name</th>
+    <th onclick="sortTable(2)"></th>>Timestamp</th>
+    <th onclick="sortTable(3)"></th>>Imdb link (if found)</th>
+    <th onclick="sortTable(4)"></th>>short uuid</th>
     </tr>
 
 {% for member in site.data.dlcRequests reversed %}
