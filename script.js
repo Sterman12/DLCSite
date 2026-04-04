@@ -1,6 +1,5 @@
 function sortTable(n) {
-table = document.getElementById("dlc_request_table");
-let table;
+let table = document.getElementById("dlc_request_table");
 let rows, i, x, y, count = 0;
 let switching = true;
 let direction = 'descending';
