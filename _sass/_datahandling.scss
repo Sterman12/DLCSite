@@ -3,6 +3,13 @@ body {
     empty-cells: show;
     width: auto;
     margin: auto;
+        tfoot {
+            tr {
+                th {
+                    
+                }
+            }
+        }
         tbody {
             background-color: #ffffff;
             tr:hover {background-color: blanchedalmond;}
