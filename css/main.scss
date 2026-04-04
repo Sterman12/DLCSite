@@ -15,8 +15,9 @@ align-items: center;
 margin: auto;
 width: auto;
 }
-.center {
+.centerscrollable {
   display:flex;
   justify-content:center;
   align-items:center;
+  overflow: scroll;
 }
