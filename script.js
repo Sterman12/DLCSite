@@ -81,7 +81,7 @@ if (Switch) {
 }
 function hideColumn(tableID, columnNumber) {
 let tableObj = document.getElementById(tableID);
-let columns = tableObj.columns[columnNumber];
+let rows = tableObj.rows[columnNumber]; 
 if (columns.style.display === "none") {
     columns.style.display = "block"
 }
