@@ -86,11 +86,11 @@ for (i=1; i<rows.length-1; i++) {
 let x = rows[i].getElementsByTagName('TD');
 if (x.style.display === "none") {
     x.style.display = "block"
-    break;
+    continue;
 }
 else if (x.style.display === "block") {
     x.style.display = "none"
-    break;
+    continue;
 }
 }
 }
