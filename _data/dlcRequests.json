@@ -283,5 +283,14 @@
     "has_played": "No",
     "long_uuid": "019d646d-49e0-710c-9f1f-42ee107962ec",
     "short_uuid": "019d646d"
+  },
+  {
+    "dlc_request": "test",
+    "user_name": "sterman00",
+    "dlc_request_timestamp": "Mon, 06 Apr 2026 20:44:03 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt35669125",
+    "has_played": "No",
+    "long_uuid": "019d6489-c3c0-77df-9d5e-81251cfcbf8d",
+    "short_uuid": "no uuid"
   }
 ]
