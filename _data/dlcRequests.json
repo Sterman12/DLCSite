@@ -236,5 +236,23 @@
     "has_played": "Yes",
     "long_uuid": "019d5565-fc33-7a5e-b1a3-facfc16da02d",
     "short_uuid": "019d556"
+  },
+  {
+    "dlc_request": "le mans 1971",
+    "user_name": "sterman00",
+    "dlc_request_timestamp": "Sun, 05 Apr 2026 02:11:34 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0067334",
+    "has_played": "No",
+    "long_uuid": "019d5b68-e86c-7b07-bf79-f1fde9624ce1",
+    "short_uuid": "019d5b6"
+  },
+  {
+    "dlc_request": "boogie nights",
+    "user_name": "johnmccreature",
+    "dlc_request_timestamp": "Sun, 05 Apr 2026 02:11:58 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0118749",
+    "has_played": "No",
+    "long_uuid": "019d5b69-473e-7be4-ac4a-2456f3c7525d",
+    "short_uuid": "019d5b6"
   }
 ]
