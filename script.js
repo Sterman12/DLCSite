@@ -79,3 +79,13 @@ if (Switch) {
         }
     }
 }
+function hideColumn(tableID, columnNumber) {
+let tableObj = document.getElementById(tableID);
+let columns = tableObj.columns[columnNumber];
+if (columns.style.display === "none") {
+    columns.style.display = "block"
+}
+else if (columns.style.display === "block") {
+    columns.style.display = "none"
+}
+}

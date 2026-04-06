@@ -15,6 +15,7 @@ heading: For DLC enthusiasts!
 </head>
 <body>
 <h1>{{page.heading}}</h1>
+<button onclick="hideColumn('dlc_request_table', 4)">Conductor mode</button>
 <div class="centerscrollable">
 <table id="dlc_request_table">
     <tr class="tableheaderrow">
@@ -22,7 +23,7 @@ heading: For DLC enthusiasts!
     <th onclick="sortTable(1)">User name</th>
     <th onclick="sortTableTime(2)">Timestamp</th>
     <th onclick="sortTable(3)">Imdb link (if found)</th>
-    <th onclick="sortTable(4)">short uuid</th>
+    <th class="canhide" onclick="sortTable(4)">short uuid</th>
     </tr>
 
 {% for member in site.data.dlcRequests reversed %}
