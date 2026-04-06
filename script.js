@@ -85,11 +85,11 @@ let rows = tableObj.rows[columnNumber];
 for (i=1; i<rows.length-1; i++) {
 let x = rows[i].getElementsByTagName('TD');
 if (x.style.display === "none") {
-    columns.style.display = "block"
+    x.style.display = "block"
     break;
 }
 else if (x.style.display === "block") {
-    columns.style.display = "none"
+    x.style.display = "none"
     break;
 }
 }
