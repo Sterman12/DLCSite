@@ -292,5 +292,14 @@
     "has_played": "No",
     "long_uuid": "019d6489-c3c0-77df-9d5e-81251cfcbf8d",
     "short_uuid": "no uuid"
+  },
+  {
+    "dlc_request": "collisionTest",
+    "user_name": "sterman00",
+    "dlc_request_timestamp": "Mon, 06 Apr 2026 20:45:42 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0305396",
+    "has_played": "No",
+    "long_uuid": "019d648b-471d-777f-99ff-1bccaa9ec0ed",
+    "short_uuid": "CZoAtjKu9LKMoXkvXZR4Y"
   }
 ]
