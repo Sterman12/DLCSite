@@ -81,11 +81,16 @@ if (Switch) {
 }
 function hideColumn(tableID, columnNumber) {
 let tableObj = document.getElementById(tableID);
-let rows = tableObj.rows[columnNumber]; 
-if (rows.style.display === "none") {
+let rows = tableObj.rows[columnNumber];
+for (i=1; i<rows.length-1; i++) {
+let x = rows[i].getElementsByTagName('TD');
+if (x.style.display === "none") {
     columns.style.display = "block"
+    break;
 }
-else if (rows.style.display === "block") {
+else if (x.style.display === "block") {
     columns.style.display = "none"
+    break;
+}
 }
 }
