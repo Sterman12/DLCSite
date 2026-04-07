@@ -81,9 +81,9 @@ if (Switch) {
 }
 function hideColumn(tableID, columnNumber) {
 let tableObj = document.getElementById(tableID);
-let rows = tableObj.rows[columnNumber];
+let rows = tableObj.rows;
 for (i=1; i<rows.length-1; i++) {
-let x = rows[i].getElementsByTagName('TD');
+let x = rows[i].getElementsByTagName('TD')[columnNumber];
 if (x.style.display === "none") {
     x.style.display = "block"
     continue;
