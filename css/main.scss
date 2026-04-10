@@ -24,11 +24,18 @@ width: auto;
 }
 .conductormodebox {
   position: sticky;
-  top:0;
-  background-color: darkslategrey;
-  border: 2px solid darkgoldenrod;
+  top:0px;
+  left:400px;
+  background-color: grey;
+  border: 2px solid black;
+  width: fit-content;
+  box-sizing: border-box;
 
 }
 .conductormodebutton {
-padding: 20px;
+padding: 15px;
+background: transparent;
+border: none !important;
+
+
 }
