@@ -290,5 +290,14 @@
     "has_played": "No",
     "long_uuid": "019d77f5-fe83-7509-843d-5d2f42cd0bb5",
     "short_uuid": "CZvJuxxg8p1MGP9hFTCFE"
+  },
+  {
+    "dlc_request": "bruno",
+    "user_name": "PizzaBiceps",
+    "dlc_request_timestamp": "Fri, 10 Apr 2026 16:05:51 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0889583",
+    "has_played": "No",
+    "long_uuid": "019d7824-845b-7168-9402-7cbf8c10b8bf",
+    "short_uuid": "CZvNniQLZFCuw9tWT5i9C"
   }
 ]
