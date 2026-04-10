@@ -256,5 +256,39 @@
     "has_played": "No",
     "long_uuid": "019d6449-6144-7b09-8b17-bc7e9acb36ff",
     "short_uuid": "019d644"
+  },
+  {
+    "dlc_request": "creatureCat",
+    "user_name": "gozuryu",
+    "dlc_request_timestamp": "Fri, 10 Apr 2026 14:59:44 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt10590066",
+    "has_played": "No",
+    "long_uuid": "019d77e7-fca6-7328-af7e-9f9687b13225",
+    "short_uuid": "CZvHkJCR8bJTpW2xHiqXJ"
+  },
+  {
+    "dlc_request": "httpswwwimdbcomtitlett0373074",
+    "user_name": "Boccx7",
+    "dlc_request_timestamp": "Fri, 10 Apr 2026 15:02:00 GMT",
+    "has_played": "No",
+    "long_uuid": "019d77ea-0dbb-739c-ae7a-2f23a3d5b06f",
+    "short_uuid": "CZvHvHHNwgHBNHmDzEyLi"
+  },
+  {
+    "dlc_request": "notorious 1946",
+    "user_name": "gozuryu",
+    "dlc_request_timestamp": "Fri, 10 Apr 2026 15:06:19 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0038787",
+    "has_played": "No",
+    "long_uuid": "019d77ee-05c4-70ac-a263-c2945370fbdd",
+    "short_uuid": "CZvJFTLtc3jnKQCxd6ANp"
+  },
+  {
+    "dlc_request": "Bleeder1999",
+    "user_name": "jack_exist",
+    "dlc_request_timestamp": "Fri, 10 Apr 2026 15:15:02 GMT",
+    "has_played": "No",
+    "long_uuid": "019d77f5-fe83-7509-843d-5d2f42cd0bb5",
+    "short_uuid": "CZvJuxxg8p1MGP9hFTCFE"
   }
 ]
