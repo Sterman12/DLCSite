@@ -111,13 +111,6 @@
     "has_played": "No"
   },
   {
-    "dlc_request": "Bleeder(1999)",
-    "user_name": "menta1000",
-    "dlc_request_timestamp": "Thu, 26 Mar 2026 20:58:45 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt0161292",
-    "has_played": "No"
-  },
-  {
     "dlc_request": "The Longest Yard",
     "user_name": "h1pperigly",
     "dlc_request_timestamp": "Mon, 30 Mar 2026 21:10:25 GMT",
@@ -267,14 +260,6 @@
     "short_uuid": "CZvHkJCR8bJTpW2xHiqXJ"
   },
   {
-    "dlc_request": "httpswwwimdbcomtitlett0373074",
-    "user_name": "Boccx7",
-    "dlc_request_timestamp": "Fri, 10 Apr 2026 15:02:00 GMT",
-    "has_played": "No",
-    "long_uuid": "019d77ea-0dbb-739c-ae7a-2f23a3d5b06f",
-    "short_uuid": "CZvHvHHNwgHBNHmDzEyLi"
-  },
-  {
     "dlc_request": "notorious 1946",
     "user_name": "gozuryu",
     "dlc_request_timestamp": "Fri, 10 Apr 2026 15:06:19 GMT",
@@ -284,7 +269,7 @@
     "short_uuid": "CZvJFTLtc3jnKQCxd6ANp"
   },
   {
-    "dlc_request": "Bleeder1999",
+    "dlc_request": "Bleeder 1999",
     "user_name": "jack_exist",
     "dlc_request_timestamp": "Fri, 10 Apr 2026 15:15:02 GMT",
     "has_played": "No",
