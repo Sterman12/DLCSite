@@ -15,8 +15,8 @@ heading: For DLC enthusiasts!
 </head>
 <body>
 <h1>{{page.heading}}</h1>
-<div class="conductormodebutton">
-    <button onclick="hideColumn('dlc_request_table', 4)">Conductor mode</button>
+<div class="conductormodebox">
+    <button class="conductormodebutton" onclick="hideColumn('dlc_request_table', 4)">Conductor mode</button>
 </div>
 <div class="centerscrollable">
 <table id="dlc_request_table">
@@ -39,7 +39,7 @@ heading: For DLC enthusiasts!
     {% else %}
     <td>&nbsp;</td>
     {% endif %}
-    <td style="display:block;">{{member.short_uuid}}</td>
+    <td style="display:none;">{{member.short_uuid}}</td>
     </tr>
     {% endunless %}
 {% endfor %}

@@ -22,9 +22,13 @@ width: auto;
   overflow-y: auto;
   overflow-x: auto;
 }
-.conductormodebutton {
+.conductormodebox {
   position: sticky;
   top:0;
   background-color: darkslategrey;
   border: 2px solid darkgoldenrod;
+
+}
+.conductormodebutton {
+padding: 20px;
 }
