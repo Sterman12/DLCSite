@@ -311,5 +311,23 @@
     "has_played": "Yes",
     "long_uuid": "019d7e99-c73a-71ae-80ff-e196a63894ec",
     "short_uuid": "CZxkVXBVtdb5ZxLHGMVHD"
+  },
+  {
+    "dlc_request": "down by law 198x",
+    "user_name": "wazzo___",
+    "dlc_request_timestamp": "Sat, 11 Apr 2026 22:38:17 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0090967",
+    "has_played": "No",
+    "long_uuid": "019d7eb2-2759-7594-9d88-61ea2055b396",
+    "short_uuid": "CZxnXH4EQQ2ecR1a9ghpR"
+  },
+  {
+    "dlc_request": "boogie nights",
+    "user_name": "johnmccreature",
+    "dlc_request_timestamp": "Sat, 11 Apr 2026 22:40:16 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0118749",
+    "has_played": "No",
+    "long_uuid": "019d7eb3-f7eb-779d-8e66-16944989460f",
+    "short_uuid": "CZxng3XtaQehUzP5FA3ux"
   }
 ]
