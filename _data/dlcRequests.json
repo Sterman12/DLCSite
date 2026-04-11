@@ -277,15 +277,6 @@
     "short_uuid": "CZvNniQLZFCuw9tWT5i9C"
   },
   {
-    "dlc_request": "request name",
-    "user_name": "sterman00",
-    "dlc_request_timestamp": "Fri, 10 Apr 2026 21:48:02 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt0302108",
-    "has_played": "No",
-    "long_uuid": "019d795d-cd82-74a4-8fe3-0fb783759b05",
-    "short_uuid": "CZvptBMzHYuaSjf7XUwcg"
-  },
-  {
     "dlc_request": "Nobody 2",
     "user_name": "sterman00",
     "dlc_request_timestamp": "Fri, 10 Apr 2026 21:54:01 GMT",
@@ -313,29 +304,11 @@
     "short_uuid": "CZxkQpf5eT3chjJCUgapc"
   },
   {
-    "dlc_request": "creatureCat",
-    "user_name": "Xasmur",
-    "dlc_request_timestamp": "Sat, 11 Apr 2026 22:10:46 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt10590066",
-    "has_played": "No",
-    "long_uuid": "019d7e98-f5e8-7540-a1b8-21661fe1b9bf",
-    "short_uuid": "CZxkRa5X3Uz6WqiBMnn3p"
-  },
-  {
-    "dlc_request": "4House",
-    "user_name": "tro_and",
-    "dlc_request_timestamp": "Sat, 11 Apr 2026 22:11:25 GMT",
-    "imdb_url": "https://www.imdb.com/title/tt0412142",
-    "has_played": "No",
-    "long_uuid": "019d7e99-8e39-7449-a90c-658b36a4ec99",
-    "short_uuid": "CZxkUSnoZTpGtwVKVhNLQ"
-  },
-  {
     "dlc_request": "Shaolin Soccer 2001",
     "user_name": "Boccx7",
     "dlc_request_timestamp": "Sat, 11 Apr 2026 22:11:39 GMT",
     "imdb_url": "https://www.imdb.com/title/tt0286112",
-    "has_played": "No",
+    "has_played": "Yes",
     "long_uuid": "019d7e99-c73a-71ae-80ff-e196a63894ec",
     "short_uuid": "CZxkVXBVtdb5ZxLHGMVHD"
   }
