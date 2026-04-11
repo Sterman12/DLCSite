@@ -293,5 +293,14 @@
     "has_played": "No",
     "long_uuid": "019d7963-4777-70fd-a40f-e2cc09acf963",
     "short_uuid": "CZvqLdpRopG6V5Fse87Fx"
+  },
+  {
+    "dlc_request": "misery",
+    "user_name": "his_story12",
+    "dlc_request_timestamp": "Sat, 11 Apr 2026 03:43:55 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0100157",
+    "has_played": "No",
+    "long_uuid": "019d7aa3-9baf-74f8-9085-511a86c1ae49",
+    "short_uuid": "CZwJ28FaYLAZC4Z6iHghE"
   }
 ]
