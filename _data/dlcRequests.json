@@ -329,5 +329,21 @@
     "has_played": "No",
     "long_uuid": "019d7eb3-f7eb-779d-8e66-16944989460f",
     "short_uuid": "CZxng3XtaQehUzP5FA3ux"
+  },
+  {
+    "dlc_request": "test",
+    "user_name": "BH0LA",
+    "dlc_request_timestamp": "Wed, 15 Apr 2026 09:43:49 GMT",
+    "has_played": "No",
+    "long_uuid": "019d9086-8b32-714d-968b-3b2219f653c9",
+    "short_uuid": "Ca5LhaFrjaiaJ7WmMm4RE"
+  },
+  {
+    "dlc_request": "manchester by the sea",
+    "user_name": "BH0LA",
+    "dlc_request_timestamp": "Wed, 15 Apr 2026 09:44:00 GMT",
+    "has_played": "No",
+    "long_uuid": "019d9086-b3ef-716d-b486-261ca6c41573",
+    "short_uuid": "Ca5LiLqzJUrrnDdBVXeVx"
   }
 ]
