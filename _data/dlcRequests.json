@@ -334,7 +334,7 @@
     "dlc_request": "test",
     "user_name": "BH0LA",
     "dlc_request_timestamp": "Wed, 15 Apr 2026 09:43:49 GMT",
-    "has_played": "No",
+    "has_played": "Yes",
     "long_uuid": "019d9086-8b32-714d-968b-3b2219f653c9",
     "short_uuid": "Ca5LhaFrjaiaJ7WmMm4RE"
   },
@@ -345,5 +345,14 @@
     "has_played": "No",
     "long_uuid": "019d9086-b3ef-716d-b486-261ca6c41573",
     "short_uuid": "Ca5LiLqzJUrrnDdBVXeVx"
+  },
+  {
+    "dlc_request": "The Legend of Aang The Last Airbender 2026",
+    "user_name": "sushisusish",
+    "dlc_request_timestamp": "Thu, 16 Apr 2026 07:28:48 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt18259538",
+    "has_played": "No",
+    "long_uuid": "019d9531-4e0e-7068-beef-01139b480177",
+    "short_uuid": "Ca74DPpfTXPtdEcd5t4ce"
   }
 ]
