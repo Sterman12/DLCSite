@@ -354,5 +354,13 @@
     "has_played": "Yes",
     "long_uuid": "019d9531-4e0e-7068-beef-01139b480177",
     "short_uuid": "Ca74DPpfTXPtdEcd5t4ce"
+  },
+  {
+    "dlc_request": "imdblookup  evalalert\"hello world\"",
+    "user_name": "PizzaBiceps",
+    "dlc_request_timestamp": "Fri, 17 Apr 2026 23:11:23 GMT",
+    "has_played": "No",
+    "long_uuid": "019d9db6-9d40-76f1-93e0-c44795e834e5",
+    "short_uuid": "CaABuAp2N2gFjYJWNm7cG"
   }
 ]
