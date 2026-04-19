@@ -346,5 +346,23 @@
     "has_played": "Yes",
     "long_uuid": "019d9531-4e0e-7068-beef-01139b480177",
     "short_uuid": "Ca74DPpfTXPtdEcd5t4ce"
+  },
+  {
+    "dlc_request": "THIS",
+    "user_name": "gizzardd__",
+    "dlc_request_timestamp": "Sun, 19 Apr 2026 03:32:35 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt5555260",
+    "has_played": "No",
+    "long_uuid": "019da3cc-1b07-766a-81dc-6d707251e554",
+    "short_uuid": "CaCRdKPQNmUGv14vnbdFR"
+  },
+  {
+    "dlc_request": "the angry beavers",
+    "user_name": "0hn3zuck3r",
+    "dlc_request_timestamp": "Sun, 19 Apr 2026 03:34:11 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0131664",
+    "has_played": "No",
+    "long_uuid": "019da3cd-9341-73f9-ab5b-6ca6afbf3659",
+    "short_uuid": "CaCRkRArfQoJKpqexz8Fz"
   }
 ]
