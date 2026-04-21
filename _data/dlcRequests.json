@@ -364,5 +364,23 @@
     "has_played": "No",
     "long_uuid": "019da3cd-9341-73f9-ab5b-6ca6afbf3659",
     "short_uuid": "CaCRkRArfQoJKpqexz8Fz"
+  },
+  {
+    "dlc_request": "la prima notte di quiete 1972",
+    "user_name": "gozuryu",
+    "dlc_request_timestamp": "Tue, 21 Apr 2026 08:39:24 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt0069120",
+    "has_played": "No",
+    "long_uuid": "019daf31-bd36-7091-ad02-dbc193cb666a",
+    "short_uuid": "CaGceEPqVJtFvACNXJU49"
+  },
+  {
+    "dlc_request": "48 days 2014",
+    "user_name": "Coy0teBongwater",
+    "dlc_request_timestamp": "Tue, 21 Apr 2026 08:55:19 GMT",
+    "imdb_url": "https://www.imdb.com/title/tt9231134",
+    "has_played": "No",
+    "long_uuid": "019daf40-4d58-7535-b69f-d06b2c57b346",
+    "short_uuid": "CaGdrasbK9JDd5dSgJC5T"
   }
 ]
